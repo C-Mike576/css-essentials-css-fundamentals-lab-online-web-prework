@@ -23,4 +23,5 @@ figcaption {
 }
 #details ~ div {
   float: left;
+  max-width: 25%
 }
