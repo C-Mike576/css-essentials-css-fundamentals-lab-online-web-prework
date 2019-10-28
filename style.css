@@ -19,7 +19,7 @@ figcaption {
   display: block;
   float: left;
   max-height: 25%;
-  flex-flow: row;
+  flex-direction: row;
 }
 div {
   text-align: center;
