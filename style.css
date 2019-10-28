@@ -25,6 +25,7 @@ p {
 }
 figcaption {
   font-size: 12px;
+  text-align: center;
 }
 div {
   float: left;
