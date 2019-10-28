@@ -17,11 +17,12 @@ figcaption {
 }
 #details {
   display: block;
-  float: left;
+  
   max-height: 25%;
   
 }
 div {
+  
   flex-direction: row;
   text-align: center;
   background-color: #ffabe6;
