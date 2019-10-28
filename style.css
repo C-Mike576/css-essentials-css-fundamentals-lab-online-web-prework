@@ -14,7 +14,6 @@ nav {
 }
 #featured-property ~ p {
   max-width: 800px;
-  text-align: center;
 }
 figcaption {
   font-size: 12px;
