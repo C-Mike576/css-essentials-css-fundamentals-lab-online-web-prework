@@ -20,11 +20,9 @@ nav {
 figcaption {
   font-size: 12px;
 }
-#details {
-  display: block;
-  
-}
+
 div {
+  display: block;
   float: left;
   text-align: center;
   background-color: #ffabe6;
