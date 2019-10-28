@@ -14,7 +14,7 @@ nav {
   padding-right: 10px;
   background-color: #c9ffe5;
 }
-#featured-property ~ p {
+p {
   max-width: 800px;
 }
 figcaption {
