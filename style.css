@@ -27,6 +27,6 @@ div {
   float: left;
   flex-direction: row;
   text-align: center;
-  
+  max-height: 25%;
   background-color: #ffabe6;
 }
