@@ -10,7 +10,7 @@ body {
 nav {
   padding-left: 10px;
   padding-right: 10px;
-  background-color: gray;
+  background-color: #c9ffe5;
 }
 nav:hover {
   color: red;
