@@ -17,7 +17,9 @@ nav:hover {
 }
 p {
   text-align: center;
-  
+}
+#featured-property {
+  text-align: center;
 }
 figcaption {
   font-size: 12px;
