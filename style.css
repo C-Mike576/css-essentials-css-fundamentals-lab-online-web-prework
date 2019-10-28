@@ -2,4 +2,23 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+}
+header {
+  text-align: center;
+}
+nav {
+  padding: 0px 10px 0px 10px;
+  background-color: gray;
+}
+nav:hover {
+  color: red;
+}
+p {
+  text-align: center;
+  width: 800px;
+  
+}
+figcaption {
+  font-size: 10px;
 }
