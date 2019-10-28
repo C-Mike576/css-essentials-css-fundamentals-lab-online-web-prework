@@ -20,7 +20,7 @@ figcaption {
 #details {
   display: block;
 }
-#details ~ div {
+div {
   float: left;
   max-width: 25%;
   text-align: center;
