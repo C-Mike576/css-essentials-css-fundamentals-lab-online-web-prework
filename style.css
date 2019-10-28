@@ -5,22 +5,17 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
-  text-align: center;
 }
 nav {
   padding-left: 10px;
   padding-right: 10px;
   background-color: #c9ffe5;
 }
-nav:hover {
-  color: red;
-}
 p {
   text-align: center;
 }
 #featured-property {
   width: 800px;
-  text-align: center;
 }
 figcaption {
   font-size: 12px;
