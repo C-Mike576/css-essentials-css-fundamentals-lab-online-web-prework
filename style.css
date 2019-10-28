@@ -23,10 +23,9 @@ figcaption {
 #details {
   display: block;
   float: left;
-  
+  max-height: 25%;
 }
 div {
-  max-height: 25%;
   text-align: center;
   background-color: #ffabe6;
 }
