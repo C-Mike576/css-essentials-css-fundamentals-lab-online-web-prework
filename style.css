@@ -18,3 +18,7 @@ nav {
 figcaption {
   font-size: 12px;
 }
+#details {
+  display: block;
+  
+}
