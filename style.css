@@ -19,9 +19,10 @@ figcaption {
   display: block;
   float: left;
   max-height: 25%;
-  flex-direction: row;
+  
 }
 div {
+  
   text-align: center;
   background-color: #ffabe6;
 }
