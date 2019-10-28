@@ -13,7 +13,7 @@ nav {
   background-color: #c9ffe5;
 }
 #featured-property ~ p {
-  width: 800px;
+  max-width: 800px;
   text-align: center;
 }
 figcaption {
