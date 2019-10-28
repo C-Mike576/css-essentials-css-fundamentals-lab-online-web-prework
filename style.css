@@ -12,7 +12,7 @@ nav {
   background-color: #c9ffe5;
 }
 p {
-  max-width: 800px;
+  width: 800px;
 }
 figcaption {
   font-size: 12px;
