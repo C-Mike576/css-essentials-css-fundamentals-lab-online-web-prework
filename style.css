@@ -24,7 +24,7 @@ figcaption {
   display: block;
   float: left;
   max-height: 25%;
-  flex-flow: row wrap;
+  flex-flow: r wrap;
 }
 div {
   text-align: center;
